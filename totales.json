@@ -1,7 +1,7 @@
 [
 	[
 		["VALOR", "CAMPO"],
-		[97, "USUARIOS"],
-		[209, "PROYECTOS"]
+		[97.0, "USUARIOS"],
+		[196.0, "PROYECTOS"]
 	]
 ]
