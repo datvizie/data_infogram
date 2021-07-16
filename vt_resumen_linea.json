@@ -1,22 +1,10 @@
 [
 	[
-		["CATEGORIA", "CANTIDAD KILOS"],
-		["BOLSA POLISEDA", 218282.0],
-		["BOLSA BAJA", 209160.0],
-		["STRETCH", 118923.0],
-		["CHAROLA", 89509.0],
-		["BOLSA ALTA", 78763.0],
-		["VASO PLASTICO", 35840.0],
-		["CLINGFILM", 16655.0],
-		["TAPA", 7754.0],
-		["BOPP", 4711.0],
-		["VASO TERMICO", 4062.0],
-		["PAPEL", 3570.0],
-		["DOMO", 2821.0],
-		["POPOTE", 1541.0],
-		["VASO POLIESTIRENO", 364.0],
-		["ALUMINIO", 300.0],
-		["PLATO PLASTICO", 247.0],
-		["CUBIERTO", 119.0]
+		["CATEGORIA", "VENTA"],
+		["CHAROLA", 0],
+		["BOLSA", 0],
+		["BOPP", 0],
+		["VASO", 0],
+		["POPOTE", 0]
 	]
 ]
