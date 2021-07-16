@@ -1,0 +1,18 @@
+[
+[
+	["CATEGORIA", "CANTIDAD KILOS"],
+	["CHAROLA", 100],
+	["BOLSA", 200],
+	["BOPP", 400],
+	["VASO", 500],
+	["POPOTE", 600]
+],
+[
+	["CATEGORIA", "VENTA"],
+	["CHAROLA", 0],
+	["BOLSA", 0],
+	["BOPP", 0],
+	["VASO", 0],
+	["POPOTE", 0]
+],
+]
