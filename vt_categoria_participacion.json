@@ -1,0 +1,25 @@
+[
+[
+	["CATEGORIA", "PARTICIPACION"],
+	["ALUMINIO", "0.04%"],
+	["CHAROLA", "13.47%"],
+	["CUBIERTO", "0.04%"],
+	["DOMO", "0.50%"],
+	["PAPEL", "0.04%"],
+	["PLATO PLASTICO", "0.01%"],
+	["TAPA", "1.01%"],
+	["VASO PLASTICO", "4.89%"],
+	["VASO POLIESTIRENO", "0.04%"],
+	["VASO TERMICO", "1.28%"]
+],
+[
+	["CATEGORIA", "PARTICIPACION"],
+	["BOLSA ALTA", "13.48%"],
+	["BOLSA BAJA", "26.93%"],
+	["BOLSA POLISEDA", "24.88%"],
+	["BOPP", "1.90%"],
+	["CLINGFILM", "2.72%"],
+	["POPOTE", "0.26%"],
+	["STRETCH", "8.50%"]
+]
+]
