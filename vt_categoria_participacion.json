@@ -1,6 +1,6 @@
 [
 [
-	["CAJAS-PAQUETES", "PARTICIPACION"],
+	["CATEGORIA", "CAJAS-PAQUETES"],
 	["CHAROLA", "13.47%"],
 	["VASO PLASTICO", "4.89%"],
 	["VASO TERMICO", "1.28%"],
@@ -13,7 +13,7 @@
 	["PLATO PLASTICO", "0.01%"]
 ],
 [
-	["KILOS", "PARTICIPACION"],
+	["CATEGORIA", "KILOS"],
 	["BOLSA BAJA", "26.93%"],
 	["BOLSA POLISEDA", "24.88%"],
 	["BOLSA ALTA", "13.48%"],
