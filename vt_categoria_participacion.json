@@ -1,25 +1,25 @@
 [
 [
 	["CATEGORIA", "CAJAS-PAQUETES"],
-	["CHAROLA", "13.47%"],
-	["VASO PLASTICO", "4.89%"],
-	["VASO TERMICO", "1.28%"],
-	["TAPA", "1.01%"],
-	["DOMO", "0.50%"],
-	["VASO POLIESTIRENO", "0.04%"],
+	["CHAROLA", "14.82%"],
+	["VASO PLASTICO", "4.20%"],
+	["VASO TERMICO", "1.23%"],
+	["TAPA", "0.83%"],
+	["DOMO", "0.39%"],
 	["ALUMINIO", "0.04%"],
-	["CUBIERTO", "0.04%"],
-	["PAPEL", "0.04%"],
-	["PLATO PLASTICO", "0.01%"]
+	["CUBIERTO", "0.03%"],
+	["PAPEL", "0.02%"],
+	["VASO POLIESTIRENO", "0.02%"],
+	["PLATO PLASTICO", "0.00%"]
 ],
 [
 	["CATEGORIA", "KILOS"],
-	["BOLSA BAJA", "26.94%"],
-	["BOLSA POLISEDA", "24.88%"],
-	["BOLSA ALTA", "13.48%"],
-	["STRETCH", "8.49%"],
-	["CLINGFILM", "2.72%"],
-	["BOPP", "1.90%"],
-	["POPOTE", "0.26%"]
+	["BOLSA BAJA", "26.80%"],
+	["BOLSA POLISEDA", "20.48%"],
+	["BOLSA ALTA", "13.93%"],
+	["STRETCH", "12.35%"],
+	["CLINGFILM", "2.65%"],
+	["BOPP", "1.99%"],
+	["POPOTE", "0.20%"]
 ]
 ]
